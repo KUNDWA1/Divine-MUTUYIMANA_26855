@@ -1,0 +1,5 @@
+com\example\demo\repository\ProductRepository.class
+com\example\demo\RestfullApiAssignmentApplication.class
+com\example\demo\model\Product.class
+com\example\demo\controller\ProductController.class
+com\example\demo\ServletInitializer.class
