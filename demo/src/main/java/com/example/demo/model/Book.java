@@ -7,6 +7,8 @@ public class Book{
     private Long id;
     private int PublicationYear;
 
+    // Default Constructor (required for JSON deserialization)
+    public Book() {}
 
     // Constructor
     public Book(String title, String author, String isbn, Long id, int publicationYear) {
